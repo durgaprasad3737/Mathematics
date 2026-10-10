@@ -14,7 +14,7 @@ Each chapter is a separate PDF with concepts, properties and solved examples. Ch
 
 | # | Chapter | Status |
 |---|---------|--------|
-| 1 | Logarithms (`Logarithmic 1.pdf`, `Logarithmic 2.pdf`) |  Available |
+| 1 | Logarithms (`Logarithmic 1.pdf`, `Logarithmic 2.pdf`, `Logarithmic 3.pdf`) |  Available |
 | 2 | Sets, Relations and Functions | => Coming soon |
 | 3 | Complex Numbers and Quadratic Equations |=> Coming soon |
 | 4 | Matrices and Determinants |=> Coming soon |
